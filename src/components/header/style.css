@@ -1,0 +1,26 @@
+*{
+    margin: 0 20px;
+}
+
+body{
+    background-color: rgba(72, 255, 255, 0.178);
+
+}
+
+nav ul{
+    background-color: #030c0c;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    gap: 30px;
+    padding-top: 30px;
+    color: rgba(255, 255, 255, 0.699);
+    font-weight: bold;
+}
+nav h1{
+    position: relative;
+    bottom: 50px;
+    right: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}

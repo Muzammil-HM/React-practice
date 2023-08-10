@@ -1,0 +1,16 @@
+
+h2{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    color: blue;
+    border: 10px solid;
+}
+h1{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+p{
+    padding-bottom: 50px;
+}
